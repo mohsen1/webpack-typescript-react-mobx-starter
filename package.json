@@ -41,6 +41,6 @@
   },
   "dependencies": {
     "mobx-react-devtools": "^4.2.11",
-    "mobx-remotedev": "^0.2.6"
+    "mobx-remotedev": "^0.3.6"
   }
 }
